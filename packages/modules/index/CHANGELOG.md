@@ -1,5 +1,15 @@
 # @medusajs/index
 
+## 2.6.0
+
+### Patch Changes
+
+- [#11348](https://github.com/medusajs/medusa/pull/11348) [`22276648ad0aef12206464b555efdce97e316bb4`](https://github.com/medusajs/medusa/commit/22276648ad0aef12206464b555efdce97e316bb4) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - feat: query.index
+
+- [#11522](https://github.com/medusajs/medusa/pull/11522) [`77f37c5f97562825895900861ca9b27327cee5fb`](https://github.com/medusajs/medusa/commit/77f37c5f97562825895900861ca9b27327cee5fb) Thanks [@adrien2p](https://github.com/adrien2p)! - Chore(index): Sync logs management
+
+- [#11431](https://github.com/medusajs/medusa/pull/11431) [`448dbcb5963c732c9c3b822b81330556bcf883cd`](https://github.com/medusajs/medusa/commit/448dbcb5963c732c9c3b822b81330556bcf883cd) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(medusa): index engine feature flag
+
 ## 2.5.0
 
 ### Patch Changes
